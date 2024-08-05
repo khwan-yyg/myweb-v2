@@ -1,0 +1,26 @@
+.scrollup {
+  background-color: var(--second-color);
+  bottom: -50%;
+  color: black;
+  display: inline-flex;
+  font-size: 1.25rem;
+  padding: 10px;
+  position: fixed;
+  right: 1rem;
+  border-radius: 10px;
+  transition: bottom 0.4s, background-color 0.4s, -webkit-transform 0.4s;
+  transition: bottom 0.4s, transform 0.4s, background-color 0.4s;
+  transition: bottom 0.4s, transform 0.4s, background-color 0.4s,
+    -webkit-transform 0.4s;
+  z-index: var(--z-tooltip);
+  cursor: pointer;
+}
+
+.show-scroll {
+  bottom: 3rem;
+}
+
+.scrollup:hover {
+  -webkit-transform: translateY(-0.5rem);
+  transform: translateY(-0.5rem);
+}

@@ -1,0 +1,26 @@
+.footer__container {
+  background: url("../../../assets/bg-footer.svg") no-repeat left top,
+    linear-gradient(to right, #007ef6 0%, #40ffe8 100%);
+}
+
+.footer__content {
+  padding-block: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  color: var(--white-color);
+}
+
+.footer__name {
+  font-size: var(--fsz-18px);
+  font-weight: var(--fw-medium);
+}
+
+.footer__date {
+  font-weight: var(--fw-medium);
+}
+
+.footer__icons {
+  gap: 1rem;
+}

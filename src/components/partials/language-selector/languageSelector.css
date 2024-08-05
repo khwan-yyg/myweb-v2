@@ -1,0 +1,14 @@
+.langue__container {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.langue__btn {
+  color: var(--black-color);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.langue__btn-active {
+  font-weight: var(--fw-bold);
+}

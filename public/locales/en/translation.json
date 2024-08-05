@@ -1,0 +1,86 @@
+{
+  "home-name": "Hello I'm Khwankamon Yanyanggun",
+
+  "resume": {
+    "subtitle": "My information",
+
+    "edu": {
+      "title": "Education",
+      "edu1": {
+        "subtitle": "Bachelor's Degree - Computer Engineering",
+        "place": "University of Phayao",
+        "year": "2022"
+      },
+      "edu2": {
+        "subtitle": "High school",
+        "place": "Phanphittayakom School",
+        "year": "2017"
+      },
+      "edu3": {
+        "subtitle": "Junior high school",
+        "place": "Sirimart Thevi School",
+        "year": "2014"
+      }
+    },
+
+    "exp": {
+      "title": "Experience",
+      "exp1": {
+        "subtitle": "State welfare registration - project employees (Temporary)",
+        "place": "Government Savings Bank, Phan Branch",
+        "year": "2022"
+      },
+      "exp2": {
+        "year": "2021"
+      }
+    },
+
+    "cer": {
+      "title": "Certificate",
+      "cer1": {
+        "subtitle": "Professional Qualification Level 3",
+        "place": "Thailand Professional Qualification Institute - (Public Organization)",
+        "year": "Software and Applications"
+      }
+    },
+
+    "lang": {
+      "title": "Language",
+      "subtitle1": "Thai (Proficient)",
+      "subtitle2": "English (Intermediate)"
+    },
+
+    "skill": {
+      "title": "Skills",
+      "sskill": {
+        "sskill1": "Communication",
+        "sskill2": "Flexibility",
+        "sskill3": "Looking After Yourself",
+        "sskill4": "Positive Attitude",
+        "sskill5": "Problem Solving",
+        "sskill6": "Teamwork",
+        "sskill7": "Time Management"
+      }
+    }
+  },
+
+  "proj": {
+    "section-subtitle": "My personal project",
+    "proj1": {
+      "des": "Website for order food and show categorized information, you can add food to cart for calculate money."
+    },
+    "proj2": {
+      "des": "Website for management data using MERN Stack and CRUD Operater."
+    },
+    "proj3": {
+      "des": "My Resume Website built with ReactJS support Responsive Design."
+    },
+    "proj4": {
+      "des": "My personal website built with ReactJS support Responsive Design."
+    }
+  },
+
+  "contact": {
+    "text": "I'm looking for any new opportunities and experiences. Whether you have a question or just want to say hi, you can contact me at my email or my telephone number, and I'll reply to your email as soon as possible!"
+  }
+}
