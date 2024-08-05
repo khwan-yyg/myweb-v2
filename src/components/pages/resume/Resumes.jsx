@@ -1,5 +1,6 @@
 import "./resumes.css";
 import { useTranslation } from "react-i18next";
+import resumePDF from "../../../assets/Khwankamon_Resume_EN.pdf";
 
 const Resumes = () => {
   const { t } = useTranslation();
@@ -253,7 +254,7 @@ const Resumes = () => {
                     And still learning until Now
                   </p>
                   <a
-                    href="/src/assets/Khwankamon_Resume_EN.pdf"
+                    href={resumePDF}
                     target="_blank"
                     className="btn btn-first btn-resume-c"
                   >

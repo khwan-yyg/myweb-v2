@@ -1,6 +1,7 @@
 import "./home.css";
 import { Link } from "react-scroll";
 import { useTranslation } from "react-i18next";
+import resumePDF from "../../../assets/Khwankamon_Resume_EN.pdf";
 
 const Home = () => {
   const { t } = useTranslation();
@@ -67,11 +68,7 @@ const Home = () => {
               <p className="home__position">Junior Frontend Developer</p>
             </div>
             <div className="home__btns flex">
-              <a
-                href="/src/assets/Khwankamon_Resume_EN.pdf"
-                target="_blank"
-                className="btn btn-first"
-              >
+              <a href={resumePDF} target="_blank" className="btn btn-first">
                 Resume<i className="bx bx-link-external"></i>
               </a>
 

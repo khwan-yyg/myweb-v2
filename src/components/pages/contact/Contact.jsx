@@ -2,6 +2,7 @@ import "./contact.css";
 import { useState } from "react";
 
 import { useTranslation } from "react-i18next";
+import resumePDF from "../../../assets/Khwankamon_Resume_EN.pdf";
 
 const Contact = () => {
   const [copySuccess, setCopySuccess] = useState("");
@@ -31,11 +32,7 @@ const Contact = () => {
         <div className="container">
           <div className="contact__content">
             <p className="contact__text">{t("contact.text")}</p>
-            <a
-              href="/src/assets/Khwankamon_Resume_EN.pdf"
-              target="_blank"
-              className="btn btn-first"
-            >
+            <a href={resumePDF} target="_blank" className="btn btn-first">
               Resume<i className="bx bx-link-external"></i>
             </a>
             <div className="contact__copy-conytainer" onClick={copyToClipboard}>
