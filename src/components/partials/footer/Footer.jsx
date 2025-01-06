@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer__container">
       <div className="footer__content">
         <p className="footer__name">Designed & Built by Khwankamon</p>
-        <div className="footer__date">2024</div>
+        <div className="footer__date">2025</div>
         <div className="footer__icons flex">
           <a
             href="https://www.figma.com/design/KyC15NA3PXMp8YRgSjzyjK/My-Website?node-id=0-1&t=WkYODNmkg955ofcZ-1"

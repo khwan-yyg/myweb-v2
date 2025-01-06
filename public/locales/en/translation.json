@@ -67,10 +67,10 @@
   "proj": {
     "section-subtitle": "My personal project",
     "proj1": {
-      "des": "Website for order food and show categorized information, you can add food to cart for calculate money."
+      "des": "Restaurant website users can Login to add food to cart, pay and show order status."
     },
     "proj2": {
-      "des": "Website for management data using MERN Stack and CRUD Operater."
+      "des": "Clothing store website show information divided by type. users can Login as a customer or admin."
     },
     "proj3": {
       "des": "My Resume Website built with ReactJS support Responsive Design."

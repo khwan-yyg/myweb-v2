@@ -1,5 +1,5 @@
-import Image1 from "../../../assets/food-store.png";
-import Image2 from "../../../assets/mern-stack-crud.png";
+import Image1 from "../../../assets/feedie.png";
+import Image2 from "../../../assets/armariobuy.png";
 import Image3 from "../../../assets/my-reseme-website.png";
 import Image4 from "../../../assets/my-website-v2.png";
 
@@ -7,20 +7,20 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "Food Store",
+    title: "Feedie",
     description: "proj.proj1.des",
-    languages: "Angular17, TypeScript, Express, Nodemon",
-    githuburl: "https://github.com/khwan-yyg/Angular-FoodStore",
-    demourl: "https://food-store-khwan.vercel.app/",
+    languages: "Angular17, Nodejs, MongoDB, Paypal Payment",
+    githuburl: "https://github.com/khwan-yyg/Feedie",
+    demourl: "https://feedie.vercel.app/",
   },
   {
     id: 2,
     image: Image2,
-    title: "Post Management",
+    title: "Armariobuy",
     description: "proj.proj2.des",
-    languages: "ReactJs18, Axios, Express, Nodemon, MongoDB",
-    githuburl: "https://github.com/khwan-yyg/mern-stack-crud",
-    demourl: "https://mern-stack-crud-khwan.vercel.app/",
+    languages: "ReactJs18, Express, MongoDB, Stripe Payment",
+    githuburl: "https://github.com/khwan-yyg/Armariobuy",
+    demourl: "https://armariobuy.vercel.app/",
   },
   {
     id: 3,
@@ -38,6 +38,6 @@ export const Data = [
     description: "proj.proj4.des",
     languages: "HTML5, CSS, ReactJs18",
     githuburl: "https://github.com/khwan-yyg/myweb-v2",
-    demourl: "https://khwan-yyg.netlify.app/",
+    demourl: "https://khwan-yyg.vercel.app/",
   },
 ];

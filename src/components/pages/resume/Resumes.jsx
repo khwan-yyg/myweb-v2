@@ -190,7 +190,7 @@ const Resumes = () => {
                   <p>Languages</p>
                 </div>
                 <div className="resume__company">
-                  <p>HTML5, CSS/SCSS, JavaScript, TypeScript, C/C#</p>
+                  <p>HTML5, CSS/SCSS, JavaScript, TypeScript, PHP, Python</p>
                 </div>
               </div>
 
@@ -200,8 +200,8 @@ const Resumes = () => {
                 </div>
                 <div className="resume__company">
                   <p>
-                    React, Angular, Node.js, Express.js, Bootstrap, AJAX, REST
-                    API
+                    React, Angular, VUE3, Bootstrap5, TailwindCSS, Node.js,
+                    Express, Bootstrap, AJAX, REST API
                   </p>
                 </div>
               </div>
@@ -211,10 +211,13 @@ const Resumes = () => {
                   <p>Tools / Platforms</p>
                 </div>
                 <div className="resume__company">
-                  <p>GitHub, VSCode, PostMan, NPM, Netlify, Vercel</p>
+                  <p>GitHub, VSCode, PostMan, Netlify, Vercel</p>
                 </div>
                 <div className="resume__company">
-                  <p>Adobe Photoshop, XD, Illustrator, Figma, Notion</p>
+                  <p>
+                    Adobe Photoshop, XD, Illustrator, Figma, Microsoft World,
+                    Excel, Powerpoint
+                  </p>
                 </div>
               </div>
 

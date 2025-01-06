@@ -65,7 +65,7 @@ const Home = () => {
                 </svg>
               </h1>
 
-              <p className="home__position">Junior Frontend Developer</p>
+              <p className="home__position">Junior Full Stack Developer</p>
             </div>
             <div className="home__btns flex">
               <a href={resumePDF} target="_blank" className="btn btn-first">
